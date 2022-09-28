@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace MyProgram
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        // Main starts here
+            Console.Clear();
+
+        }
+    }
+}

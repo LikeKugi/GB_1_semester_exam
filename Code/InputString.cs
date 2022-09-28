@@ -1,7 +1,7 @@
-class InputLine
+class InputString
     {
         public string Line {get;init;} 
-        public InputLine()
+        public InputString()
         {
             this.Line = CreateLine();
         }

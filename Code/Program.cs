@@ -8,7 +8,7 @@ namespace MyProgram
         {
         // Main starts here
             Console.Clear();
-            var line = new InputString();
+            var line = new ChoosingInput();
             Console.WriteLine(line.Line);
         }
     }
